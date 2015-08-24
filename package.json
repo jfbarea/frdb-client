@@ -1,0 +1,33 @@
+{
+  "name": "frDataBase",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "http://bestmadrid.org",
+  "author": "Francisco Barea López",
+  "dependencies": {
+    "coffee-script": "*"
+  },
+  "devDependencies": {
+    "browserify": "^10.0.0",
+    "coffee-reactify": "^3.0.0",
+    "gulp": "*",
+    "gulp-cjsx": "*",
+    "gulp-concat": "*",
+    "gulp-connect": "*",
+    "gulp-flatten": "*",
+    "gulp-header": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "gulp-yml": "*",
+    "hamsa": "^0.5.6",
+    "hope": "^1.0.3",
+    "react": "^0.13.2",
+    "react-async": "^2.1.0",
+    "react-router-component": "^0.24.4",
+    "superagent": "^1.2.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}

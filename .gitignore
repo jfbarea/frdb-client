@@ -1,0 +1,4 @@
+bower_components
+dist/assets/**/*.css
+dist/assets/**/*.js
+node_modules
